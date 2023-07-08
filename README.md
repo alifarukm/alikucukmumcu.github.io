@@ -1,2 +1,2 @@
-# alikucukmumcu.github.io
-Personal promotion address.
+# whoami
+Personal work promotion address.
